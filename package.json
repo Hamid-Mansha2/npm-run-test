@@ -1,0 +1,12 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Testing npm install on Travis",
+  "scripts": {
+    "test": "echo \"Running test...\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "lodash": "^4.17.21"
+  }
+}
